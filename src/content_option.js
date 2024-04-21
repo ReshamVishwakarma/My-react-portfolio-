@@ -12,7 +12,7 @@ const introdata = {
         third: "I am a Google WE Scholar",
     },
     description: "Freelancer, Full Stack Web Developer and currently pursuing BTech in CSE.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://cdn.discordapp.com/attachments/987626554899185666/1231565988307140638/lkvniudfbgvuiehb.png?ex=66376c35&is=6624f735&hm=8ed64b3fd11cc2674d7ddad4e9c10518582a626aa7ebd63ce7e57cf7a8c83ecc&",
 };
 
 const dataabout = {
