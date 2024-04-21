@@ -1,38 +1,64 @@
-const logotext = "JOHN";
+const logotext = "RESHAM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Resham Vishwakarma",
+    description: "I’m Resham Vishwakarma _ Full stack devloper,currently pursuing BTech in CSE from HBTU Kanpur",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Resham Vishwakarma",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I am a Google WE Scholar",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Freelancer, Full Stack Web Developer and currently pursuing BTech in CSE.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about my self",
+    aboutme: "I’m Resham Vishwakarma, pursuing BTech in Computer Science & Engineering from Harcourt Butler Technical University, Kanpur, India.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Google WE Scholar",
+        where: "TalentSprint",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Siemens Scholar",
+        where: "Siemens",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Beta MLSA",
+        where: "Microsoft",
+        date: "2024",
+    },
+
+    {
+        jobtitle: "Citizen Scientist",
+        where: "NASA",
+        date: "2024",
+    },
+    {
+        jobtitle: "SheCodes Foundation Scholar",
+        where: "SheCodes",
+        date: "2024",
+    },
+    {
+        jobtitle: "Amazon Wow mentee",
+        where: "Amazon",
+        date: "2024",
+    },
+    {
+        jobtitle: "#include<her>cohort 4.0",
+        where: "Microsoft Azure",
+        date: "2023",
+    },
+    {
+        jobtitle: "Wed Developer Intern",
+        where: "CodSoft",
+        date: "2023",
     },
 ];
 
@@ -41,7 +67,11 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "C",
+        value: 85,
+    },
+    {
+        name: "C++",
         value: 85,
     },
     {
@@ -49,108 +79,108 @@ const skills = [{
         value: 80,
     },
     {
-        name: "React",
+        name: "CSS",
+        value: 80,
+    },
+    {
+        name: "Node.js",
+        value: 80,
+    },
+    {
+        name: "Express.js",
+        value: 80,
+    },
+    {
+        name: "HTML",
+        value: 80,
+    },
+    {
+        name: "Data Structure",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Algorithm Analysis",
+        value: 60,
+    },
+    {
+        name: "Computational Thinking",
+        value: 90,
+    },
+    {
+        name: "Problem Solving",
+        value: 80,
+    },
+    {
+        name: "Communication Skills",
+        value: 90,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Expert UI & UX design services to elevate your digital presence. Captivating interfaces and easy interactions for  user satisfaction.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full Stack Web Development",
+        description: "We offer comprehensive Full Stack Web Development solutions from front-end to back-end functionality  to empower your digital presence.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Resume Writing",
+        description: "We develop professional ATS resume that highlight your strengths and accomplishments for maximum impact and unlock your career potential.",
     },
+    
 ];
+//total 12 projects 
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+const dataportfolio = [
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "EmpowerHerWithResham - A step to Empower Women in tech.",
+        link: "https://reshamvishwakarma.github.io/EmpowerHerWithResham/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/500/?grayscale",
+        description: "Grid Portfolio Design integrating advance CSS features.",
+        link: "https://reshamvishwakarma.github.io/Grid-Portfolio-Design/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Order Card Web Design",
+        link: "https://reshamvishwakarma.github.io/Order-Card-Web-Design/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Studence Attendance tracking portal made using HTML, CSS and JS.",
+        link: "https://reshamvishwakarma.github.io/Student-Attendance/",
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "Research and Development Project Management Portal | HTML, CSS, JS",
+        link: "https://reshamvishwakarma.github.io/Project-Management/",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Resham’s Recipe Delights Website | HTML, CSS",
+        link: "https://reshamvishwakarma.github.io/Resham-s-Recipe-Delights-Website/",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "reshamofficial123@gmail.com",
+    YOUR_FONE: "+91 9696765154",
+    description: "Feel free to reach out to me for inquiries or collaborations. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_yjor5cf",
+    YOUR_TEMPLATE_ID: "template_f192p2o",
+    YOUR_USER_ID: "FL2WlOTPwPEwrjLrf",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/ReshamVishwakarma",
+    linkedin: "https://www.linkedin.com/in/resham-vishwakarma-5a258b284/",
+    twitter: "https://twitter.com/ReshamVish",
 };
 export {
     meta,
